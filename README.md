@@ -1,8 +1,7 @@
 Bootstrap Application Wizard
 ============================
 
-This project is no longer maintained.  Open issues and PRs will not be resolved.
-Please fork if you wish to maintain yourself.
+This is a maintained for of the original project. Please create issues or PR here instead.
 
 ![Screenshot](http://i.imgur.com/e9B2Z.png)
 
